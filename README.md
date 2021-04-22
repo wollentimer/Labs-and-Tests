@@ -1,4 +1,4 @@
 # C++
 
-Any C++ labs from studying
+some laboratory works from studying
 
